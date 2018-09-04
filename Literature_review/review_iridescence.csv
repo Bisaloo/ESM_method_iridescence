@@ -1,0 +1,152 @@
+Class,Taxon,"Angles $(\Phi_{inc},\Phi_{col})$","Angles $(\theta_i,\theta_r)$",Hue,Brightness,Saturation,Variables,Vision_model,Hue_shift,Brightness_shift,Saturation_shift,Plot,Reference
+Birds,Sturnus vulgaris,"(45,-45)",,,,,none,FALSE,FALSE,FALSE,FALSE,FALSE,Bennett1997_ultravioletplumagecolors
+Insects,Morphidae,"({-60,-45,-30,0,30,45,60},sphere)",,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Berthier2006_morphologicalstructureoptical
+Birds,Tachycineta bicolor,"(0,0)",,H1,B2,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Bitton2007_plumagebrightnessage
+Birds,Tachycineta bicolor,"(0,0)",,H1,B2,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Bitton2008_agerelateddifferencesplumage
+Birds,Tachycineta bicolor,"(0,0)",,H1,B2,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Bitton2008_plumagecharacteristicsreproductive
+Birds,Heliangelus (3),unknown multiple,,H1,B3,S3,,FALSE,FALSE,FALSE,FALSE,FALSE,Bleiweiss1994_behaviouralevolutionaryimplications
+Gastropoda,Helcion pruinosus,"constant span,constant bisector",,H1,B3,,,FALSE,FALSE,FALSE,FALSE,"brightness,hue",Brink2002_iridescentcolorsseashells
+Birds,Bostrychia hagedash,"(27,63),(29,61),(31,59),(33,57),(35,55),(37,53),(39,51),(41,49),(43,47),(45,45),(47,43),(49,41),(51,39),(53,37),(55,35)","(10,10),(30,30),(45,45),(60,60),(75,75)",,B1,,,FALSE,FALSE,HWHM of angle ranges on B1,FALSE,B1,Brink2004_structuralcoloursfeathers
+Maxillopoda,Sapphirina (5),"(0,0)",,H1,B3,FWHM,,FALSE,FALSE,FALSE,FALSE,FALSE,Chae1999_spectralpatternsiridescence
+Florideophyceae,Chondrus crispus,"(0,0)",,,B3,,,FALSE,FALSE,FALSE,FALSE,FALSE,Chandler2015_structuralcolourchondrus
+Birds,Volatinia jacarina,"(0,0)",,H1,"B1,B3",S6,,FALSE,FALSE,FALSE,FALSE,FALSE,Costa2005_coccidianoocystparasitism
+Birds,Pavo cristatus,"(30,0),(45,0),(60,0)",,,,,"hue.phi,hue.theta,achieved.chroma",Endler & Mielke,euclidean distance in tetrahedron,FALSE,FALSE,FALSE,Dakin2013_eyeeyespothow
+Birds,Ptilonorhynchus violaceus,"(0,0)",,H1,B2,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Doucet2003_multiplesexualornaments
+Birds,Ptilonorhynchus violaceus,"(0,0)",,H1,B2,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Doucet2003_structuralplumagecolour
+Birds,Ptilonorhynchus violaceus,"(0,0),(15,15),(30,30),(45,45),(60,60)",,H1,B3,"S1,S8",,FALSE,FALSE,FALSE,FALSE,"H1,B3,S8",Doucet2006_iridescentplumagesatin
+Insects,Coleoptera (2),"(0,0),(10,-10),(15,-15),(20,-20),(25,-25),(30,-30),(40,-40),(50,-50),
+(0,0),(2,-2),(4,-4),(6,-6),(8,-8),(10,-10),(12,-12),(14,-14),
+(13,15),(13,20),(13,30),(13,40),(13,50),(13,60),(13,70),(13,80),
+(20,15),(20,20),(20,30),(20,40),(20,50),(20,60),(20,70),(20,80),
+(40,15),(40,20),(40,30),(40,40),(40,50),(40,60),(40,70),
+(70,15),(70,20),(70,30),(70,40)",,H1,B3,,,FALSE,FALSE,FALSE,FALSE,"spectra,H1,B3",Edo2010_uniquereflectionproperty
+Birds,Tachycineta bicolor,"(0,0)",,"H1,H5",B3,,,FALSE,FALSE,FALSE,FALSE,FALSE,Eliason2010_rapidreversibleresponse
+Birds,Anas platyrhynchos,unknown,,H1,B2,,,FALSE,FALSE,FALSE,FALSE,FALSE,Eliason2011_decreasedhydrophobicityiridescent
+Birds,Anatini (6),"(0,0),(10,0),(20,0),(30,0),(40,0),(50,0),(60,0),(70,0),
+(10,90),(20,90),(30,90),(40,90),(50,90),(60,90),(70,90)",,H1,B3,FWHM,,FALSE,FALSE,FALSE,FALSE,"Spectra,B3",Eliason2012_photonicheterostructureproduces
+Birds,Cinnyricinclus leucogaster,"(0,0),(5,-5),(10,-10),(15,-15),(20,-20),(25,-25),(30,-30),(35,-35),(40,-40),(45,-45),(50,-50),(55,-55),(60,-60),
+(0,15),(0,20),(0,25),(0,30),(0,35),(0,40),(0,45),(0,50),(0,55),
+(10,10),(15,15),(20,20),(25,25),(30,30),(35,35),(40,40),(45,45),(50,50),(55,55),(60,60)",,H1,B1,FWHM,,FALSE,linear regression,FALSE,FALSE,heatmap,Eliason2013_howhollowmelanosomes
+Birds,Anatidae,"(0,0)",,H1,B3,FWHM,,FALSE,FALSE,FALSE,FALSE,FALSE,Eliason2015_modularcolorevolution
+Birds,Hirundo rustica,"(0,0)",,,B1,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Galvan2009_differentrolesnatural
+Insects,Papillio paris,"(0,0),(5,-5),(10,-10)",,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Ghate2013_studynanoarchitecturewings
+Insects,Eurema lisa,unknown multiple ,,H1,,,,FALSE,FALSE,FALSE,FALSE,H1,Ghiradella1972_ultravioletreflectionmalea
+Birds,Trochilidae (?),unknown multiple,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Greenewalt1960_iridescentcolorshummingbirds
+Actinopterygii,Cyprinus carpio,unknown single,,,yes,,,FALSE,FALSE,FALSE,FALSE,FALSE,Gur2014_structuralbasisenhanced
+Maxillopoda,Sapphirinidae (2),"(0,0),(15,-15),(30,-30),(45,-45)",,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Gur2015_structuralbasisbrilliant
+Maxillopoda,Sapphirinidae (2),unknown single,,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Gur2016_lightinducedcolorchange
+Insects,Plateumaris sericea,unknown single,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Hariyama2002_originiridescentcolors
+Birds,Meleagris gallopavo,"(0,45)",,,,,PCA,FALSE,FALSE,FALSE,FALSE,FALSE,Hill2005_effectcoccidialinfection
+Insects,Papilio (2),,unknown specular,H1,,,,FALSE,FALSE,FALSE,FALSE,H1,Huxley1975_basisstructuralcolour
+Birds,Tinamus major (eggs),"(10,10),(15,15),(20,20),(25,25),(30,30),(35,35),(40,45),(50,50)",,H1,B1,,,FALSE,linear regression (ESM),Hunter’s gloss,FALSE,"normalised spectra, H1",Igic2015_nanostructuralbasisgloss
+Insects,Chrysozephyrus smaragdinus,"(0,15),(0,30),(0,45),(0,60),(0,75)",,H1,B3,FWHM,,FALSE,FALSE,sd of gaussian,FALSE,"spectra,B3",Imafuku2016_wingscaleorientationa
+Arachnids,Phidippus johnsoni,"(0,0)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Ingram2011_structuralorigingreen
+NA,Flavobacterium IR1,unknown multiple (specular + constant illumination),,,,,,FALSE,FALSE,FALSE,FALSE,heatmap,Johansen2018_geneticmanipulationstructural
+Insects,Colias eurytheme,,"(22.5,22.5)","H1,H3",B1,yes,,FALSE,FALSE,FALSE,FALSE,FALSE,Kemp2006_heightenedphenotypicvariation
+Insects,Colias eurytheme,"(22.5,22.5)",,H1,B2,,,FALSE,FALSE,angular breadth,FALSE,FALSE,Kemp2006_stressmediatedcovariance
+Insects,Colias eurytheme,,"(45,0)+(?,?)",H1,B1,S,,FALSE,FALSE,angular breadth,FALSE,FALSE,Kemp2007_conditiondependencequantitative
+Insects,Eurema hecabe,,"(22.5,22.5)",H1,B2,yes,,FALSE,FALSE,angular breadth,FALSE,FALSE,Kemp2008_femalematingbiases
+Insects,Colias eurytheme,,"(22.5,22.5)","H1,H3",B1,yes,,FALSE,FALSE,angular breadth,FALSE,FALSE,Kemp2008_potentialdirectfitness
+Insects,Hypolimnas,,"(22.5,22.5)",H1,B3,,,FALSE,FALSE,FALSE,FALSE,FALSE,Kemp2014_femalematingpreferences
+NA,Bacteriodetes,"(70,70),(70,65),(70,60),(70,55),(70,50),(70,45),(70,40),(70,35),(70,30),(70,25),(70,20),(70,15),(70,10),(70,5),(70,0),(70,-5),(70,-10),(70,-15),(70,-20),(70,-25),(70,-30),(70,-35),(70,-40),(70,-45),(70,-50),(70,-55),(70,-60),(70,-65)",,,,,,FALSE,FALSE,FALSE,FALSE,heatmap,Kientz2012_glitterlikeiridescencebacteroidetes
+NA,Cellulophaga lytica,"{30,70}x[-65,70,2]",,,,,,FALSE,FALSE,FALSE,FALSE,heatmap,Kientz2016_uniqueselforganizationbacteriala
+Birds,Sturnus vulgaris,"(45,45)",,segment quotient,sum quantum catches,r.vec,,Endler & Mielke,FALSE,FALSE,FALSE,FALSE,Komdeur2005_mutualornamentationage
+Insects,Calopteryx,"(0,0)",,H1,B3,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Kuitunen2011_effectscuticlestructure
+Insects,Plateumaris sericea,unknown single,,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Kurachi2002_originextensivecolour
+Reptilia,Lacerta schreibeiri,"(0,0),(30,30),(45,45)",,H1,,S1,,Endler & Mielke,FALSE,FALSE,FALSE,"H1,S1",Lanuza2014_nowyousee
+Reptilia,Podarcis muralis,"(45,45),(-45,-45),(30,30),(-30,-30)",,H1,B1,S1,,FALSE,FALSE,FALSE,FALSE,spectra,Lanuza2016_iridescentangledependentreflectance
+Birds,Columbia livia,"(0,0)",,,,,,Endler & Mielke,FALSE,FALSE,FALSE,FALSE,Leclaire2014_featherbacterialload
+NA,Elaeocarpus angustifolius,"(unknown, sphere)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Lee1991_ultrastructuralbasisfunction
+Apiales,Delarbrea micheana,"(unknown, sphere)",,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Lee2000_structuralfruitcoloration
+Birds,Corvus macrorhynchos,"(0,sphere)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Lee2012_weakiridescentfeather
+Birds,Lophora swinhoii,"(0,0)",,,B2,,,FALSE,FALSE,FALSE,FALSE,B2,Lee2015_measuringmodellingreflectance
+Birds,Anatini (2),"(0,0)",,H1,B1,S8,,Vorobyev & Osorio,FALSE,FALSE,FALSE,FALSE,Legagneux2010_conditiondependenceiridescent
+Birds,Anas crecca,"(0,0)",,,,,,Vorobyev & Osorio,FALSE,FALSE,FALSE,FALSE,Legagneux2012_largescalegeographicvariation
+Gastropoda,Patella pellucida,unknown multiple,,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Li2015_highlyconspicuousmineralized
+Birds,Urocissa caerulea,"({10,20,30,40,50},sphere)",,,B2,,,FALSE,FALSE,FALSE,FALSE,"B2,spectra",Liao2015_measuringmodelinginconspicuous
+Arachnids,Cosmophasis umbratica,unknown,,H1,B1,,,FALSE,FALSE,FALSE,FALSE,FALSE,Lim2013_uvgreeniridescencepredicts
+Insects,Chlorophila obscuripennis,"(0,0),(20,20),(40,40),(60,60),
+(0,[0,70,??])",,H1,,,,FALSE,FALSE,FALSE,FALSE,"Normalised spectra, heatmap",Liu2008_inconspicuousstructuralcoloration
+Insects,Tmesisternus isabellae,"(0,0)",,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Liu2009_structuralcolorchange
+Birds,Pavo cristatus,"(0,0),
+(45,0),(45,5),(45,10),(45,15),(45,20),(45,25),(45,30),(45,35),(45,40),(45,45)",,H1,B1,S8,,Vorobyev & Osorio,difference,difference,difference,FALSE,Loyau2007_iridescentstructurallybased
+Birds,Fregata magnificens,,"(2.5,2.5),(7.5,-2.5),(-2.5,7.5),
+(45,45),(40,50),(50,40)","H1,\lambda_{Rmin}","B1,Rmin",S2,,FALSE,FALSE,(Bmax-B(5))/(Bmax+B(5)),FALSE,"spectra,B1",Madsen2007_morphologyornamentationmale
+Birds,Nectarinia asiatica,unknown,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Mahapatra2016_closerlookfeather
+Birds,Volatinia jacarina,"(0,0),(45,45)",,H1,,,,FALSE,difference,FALSE,FALSE,FALSE,Maia2009_iridescentstructuralcolour
+Birds,Volatinia jacarina,"(45,45)",,H1,"B2,B3","S1,S2",,FALSE,FALSE,FALSE,FALSE,FALSE,Maia2011_achievinglusterprenuptial
+Birds,Sturnidae (47),"(0,0)",,,,,PC vars,quantum catches,FALSE,FALSE,FALSE,FALSE,Maia2013_keyornamentalinnovations
+Birds,Sturnidae (47),"(0,0)",,,,,luminance,Vorobyev & Osorio,FALSE,FALSE,FALSE,FALSE,Maia2016_selectionconstraintevolution
+Actinopterygii,Pentapodus paradiseus,"(0,0),(40,-40),(55,-55)",,H1,,FWHM,,FALSE,FALSE,FALSE,FALSE,"normalized spectra,FWHM/H1",Mathger2003_rapidcolourchanges
+Birds,Molothrus ater,Hand-held spectro,,,,,"hue,brightness,saturation,colorshop software",FALSE,FALSE,FALSE,FALSE,FALSE,McGraw2002_differentcolorsreveal
+Birds,Columbia livia,"(0,0)",,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,McGraw2004_multipleuvreflectance
+Birds,Calypte anna,,"(10,10),(15,15),(20,20),(25,25),(30,30),(35,35),(40,40),(45,45),(50,50),(50,50),(55,55),(60,60),(65,65)
+(22.5,22.5),(27.5,17.5),(32.5,12.5)(37.5,7.5),(42.5,2.5),(47.5,-2.5)",H1,"B2,B3",S1,,FALSE,linear regression,linear regression,linear regression,"spectra,H1,B2",Meadows2011_quantifyingiridescentcoloration
+Birds,Calypte anna,,"(22.5,22.5),(27.5,17.5)",H1,B2,S1,,FALSE,FALSE,difference,FALSE,FALSE,Meadows2012_dietaryproteinlevel
+Insects,Coleoptera (2),unknown single,,H1,B2,,,FALSE,FALSE,FALSE,FALSE,FALSE,Mossakowski1979_reflectionmeasurementsused
+Insects,Hoplia coerulea,"(0,0),(30,30),(60,60)",,H1,,,,FALSE,FALSE,FALSE,FALSE,normalised spectra,Mouchet2017_photonicscaleshoplia
+Birds,Pica pica,"(0,0)",,H1,B3,S3,,FALSE,FALSE,FALSE,FALSE,FALSE,Nam2016_multiplestructuralcolors
+Birds,Cotinga maynana,"(0,10),(0,20),(0,30),(0,40),(0,50),(0,60),
+(5,5),(15,-5),(25,-15),(35,-25),(45,-35),(55,-45),
+(10,10),(20,20),(30,30),(40,40),(50,50),(60,60)",,,,,,FALSE,FALSE,FALSE,FALSE,Stacked spectra,Noh2010_contributiondoublescattering
+Insects,Gastrophysa viridula,unknown single,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Onelli2017_developmentstructuralcolour
+Birds,Lampornis amethystinus,"(0,45)",,H1,,,convex hull volume,Endler & Mielke,FALSE,FALSE,FALSE,FALSE,Ornelas2016_moleculariridescentfeather
+Birds,Aves (15),$\Phi_{inc}+\Phi_{col}=cst$ and $\Phi_{inc}=cst$,,H1,B1,HWHM,,FALSE,linear regression,FWHM of angle range,FALSE,"H1,B1",Osorio2002_spectralreflectancedirectional
+Insects,Colias eurytheme,,"(22.5,22.5)",,yes,,,FALSE,FALSE,FALSE,FALSE,FALSE,Papke2007_multimodalsignallingstructural
+Insects,Heliconius (6),multiple tilts (exact number depends on the species),,H1,B3,FWHM,JND,Vorobyev & Osorio,FALSE,FALSE,FALSE,spectra,Parnell2018_wingscaleultrastructure
+Birds,Coeligena (11),"(15,15),(15,0),(15,-30),(15,-45)",,H5,B1,S3,,FALSE,FALSE,FALSE,FALSE,FALSE,Parra2010_colorevolutionhummingbird
+Insects,Charidotella ambia,"(0,0)",,,,,,CIE,FALSE,FALSE,FALSE,FALSE,Pasteels2016_structuralphysicalevidence
+Insects,Battus philenor,,"(30,30)",H1,B2,S3,JND,Vorobyev & Osorio,FALSE,FALSE,FALSE,FALSE,Pegram2013_warningcolorchanges
+Birds,Hirundo rustica,"(0,45)",,H1,B1,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Perrier2002_structuralcolorationsexual
+Insects,Pieridae (6),"(-60,[-75,75,10]), (-45, [-75,75,10]), (-30,[ -75,75,10]), (0, [-75,75,10]),(30,[-75,75,10]),(45,[75,75,10]),(60,[75,75,10])",multiple specular,,B1,,,FALSE,FALSE,FWHM,,"spectra,heatmap,B1",Pirih2011_spatialreflectionpatterns
+Insects,Lycaenidae,"(55,-55),(50,-50),(45,-45),(40,-40),(35,-35),(30,-30),(25,-25),(20,-20),(15,-15),(10,-10),(5,-5),(0,0),(-5,5),(-10,10),(-15,15),(-20,20),(-25,25),(-30,30),(-35,35),(-40,40),(-45,45),(-50,50),(-55,55)",,H1,B1,FWHM,,FALSE,FALSE,FALSE,FALSE,heatmap,Piszter2016_variabilitystructuralcoloration
+Insects,Morpho rethenor,"(10,[-85,85,5]),(30,[-85,85,5]),(60,[-85,85,5])",,,,,,FALSE,FALSE,FALSE,FALSE,heatmap,Plattner2004_opticalpropertiesscales
+Birds,Zenaida aurita,"(0,0)",,H1,B1,S1,,FALSE,FALSE,FALSE,FALSE,FALSE,Quinard2017_reducedsexualdichromatism
+Birds,Caloenas nicobarica,"(0,0),(45,0),
+(0,0),(0,5),(0,10),(0,15),(0,20),(0,25),(0,30),(0,35),(0,40),(0,45)",,H1,,,,CIE,FALSE,FALSE,FALSE,FALSE,Rashid2018_structuralcolorationcaloenas
+Insects,Colias eurytheme,,"(0,45),(0,-45)",H1,B1,"S4,FWHM","Chroma, Hue",Segment,FALSE,FALSE,FALSE,FALSE,Rutowski2005_pterinpigmentsamplify
+Insects,Pieridae (3),,"(22.5,-12.5),(22.5,-7.5),(22.5,-2.5),(22.5,2.5),(22.5,7.5),(22.5,12.5),(22.5,17.5),(22.5,22.5)",H1,,,,FALSE,linear regression,FALSE,FALSE,H1,Rutowski2007_diversitystructuralultraviolet
+Insects,Colias eurytheme,"(0,45),(5,40),(10,35),(15,30),(20,25),(25,20),(30,15),(35,10),(40,5),(45,0),(50,-5),(55,-10),(60,-15),
+(-45,0)",,,B3,,"segments Hue, Chroma, Brightness",segments Endler,FALSE,angular breadth,FALSE,B3,Rutowski2007_iridescentultravioletsignal
+Insects,Battus philenor,"(15,15),(30,30),(45,45),(60,60)","(30,30)",H1,B3,S3,,FALSE,FALSE,FALSE,FALSE,"H1,B3",Rutowski2010_iridescenthindwingpatches
+Insects,Battus philenor,"(15,15),(30,30),(45,45),(60,60)","(30,30)",H1,B1,S3,,FALSE,FALSE,FALSE,FALSE,FALSE,Rutowski2013_malespecificiridescentcoloration
+Birds,Pica pica,"(45,-45),(45,0),(45,45),(45,60),
+(0,-45),(0,0),(0,45),(0,60)",,H1,"B1,B3","S1,S6",,FALSE,FALSE,FALSE,FALSE,spectra,Santos2007_sexualdichromatismeuropean
+Birds,Ptilonorhynchus violaceus,"(0,0)",,H1,B2,"S1,S6",,FALSE,FALSE,FALSE,FALSE,FALSE,Savard2011_bluenotuv
+Insects,Cincidela,unknown single,,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Schultz1985_ultrastructureepicuticularinterference
+Insects,Megaloprepus caerulatus,"(0,0)","(22.5,-12.5),(22.5,-7.5),(22.5,-2.5),(22.5,2.5),(22.5,7.5),(22.5,12.5),(22.5,17.5),(22.5,22.5)",H1,B3,,,FALSE,FALSE,FALSE,FALSE,"H1,B3",Schultz2009_structuralcolourscreate
+Birds,Icteridae (40),"(0,0)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Shawkey2006_evolutionarytransitionsmechanisms
+Birds,Zenaida macroura,"(0,0),(15,15),(30,30),(45,45),(60,60),(75,75)",,H1,B2,S3,,FALSE,FALSE,FALSE,FALSE,FALSE,Shawkey2011_structuralcolorchange
+Insects,Chrysochroa fulgidissima,"(15,15),(25,25),(35,35),(45,45),(55,55),(60,60),(65,65),(70,70),(75,75)",,H1,,FWHM,,FALSE,FALSE,FALSE,FALSE,FALSE,Shinya2012_phaseadjustinglayersmultilayer
+Birds,Calypte costa,"(49,0),(39,10)",,,,,"hue.theta,hue.phi,r.achieved,luminance",Stoddard & Prum,difference of angles in the tetrahedron,difference,difference,TRUE,Simpson2018_itnotjust
+Mammals,Chrysochloridae,"(0,0)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Snyder2012_iridescentcolourproduction
+Insects,Graphium sarpedon,"(10,10),(20,20),(30,30),(40,40),(50,50),(60,60)",,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Stavenga2010_butterflywingcolors
+Birds,Parotia lawesii,"(0,0),(10,10),(20,20),(30,30),(40,40),(50,50),(60,60),
+(30,-30)",,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Stavenga2011_dramaticcolourchanges
+Insects,Chrysochroa fulgidissima,"(0,0),(10,10),(20,20),(30,30),(40,40),(50,50),(55,55),(60,60),(65,65),(70,70),(75,75),(80,80),(85,85),
+(0,15),(0,30),(0,45),(0,60)",,H1,B3,,,FALSE,FALSE,FWHM of angle range,FALSE,"spectra,H1,B3",Stavenga2011_polarizediridescencemultilayered
+Birds,Parotia lawesii,"(0,0),(10,10),(20,20),(30,30),(40,40),(50,50)",,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Stavenga2015_highrefractiveindex
+Birds,Pica pica,"(0,0),(10,10),(20,20),(30,30),(40,40),(50,50),(60,60),(70,70)",,H1,B3,,,FALSE,FALSE,FALSE,FALSE,"spectra,H1,B2",Stavenga2017_magnificentmagpiecolours
+Birds,Anas platyrhynchos,"(10,10),(20,20),(30,30),(40,40),(50,50),(60,60),(70,70),(80,80)",,H1,B1,FWHM,,FALSE,FALSE,FALSE,FALSE,"H1,B1",Stavenga2017_structuralcolouredfeathers
+Insects,Papilio blumei,"(0,0)",,H1,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Tada1999_effectsbutterflyscale
+Insects,Lepidoptera,"(30,?)→MAX",,,,,"JND,colvol",Vorobyev & Osorio,FALSE,FALSE,FALSE,FALSE,Thurman2016_birdeyeview
+Insects,Papilio (4),"(0,sphere)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Trzeciak2012_variablemultilayerreflection
+Birds,Tachycineta bicolor,,"(5,5),(?,?)",H1,B2,S8,,Endler & Mielke,FALSE,angular breadth,FALSE,FALSE,VanWijk2016_influenceiridescentcoloration
+Birds,Tachycineta bicolor,"(0,0)","(5,5),(?,?)",H1,B2,S8,,FALSE,FALSE,"angular breadth, difference",FALSE,B2,VanWijk2016_reliabletechniquequantify
+Birds,Hirundo rustica,"(45,-45)",,,B2,S1,"h.phi,h.theta,r.achieved",Endler & Mielke,FALSE,FALSE,FALSE,FALSE,Vaquero-Alba2016_quantitativeanalysisobjective
+NA,Pollia condensata,unknown single,,H1,yes,,,FALSE,FALSE,FALSE,FALSE,FALSE,Vignolini2012_pointilliststructuralcolor
+Insects,Papilio (2),unknown single,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Vukusic2001_sculptedmultilayeropticaleffects
+Insects,Neurobasis chinensis,"(5,5),(50,50)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Vukusic2004_remarkableiridescencehindwings
+Insects,Oreina cacalidae,,"(20,20),(25,15),(30,10),(35,5),(40,0),(45,-5),
+(15,15),(25,25),(50,50),(75,75)",,,,JND,Vorobyev & Osorio (JND),FALSE,FALSE,FALSE,"B3,spectra",Waldron2017_experimentalevidencesuggests
+Insects,Hypolimnas bolina,unknown multiple (vary tilt and obs),,,B2,,,FALSE,FALSE,“angular breadth” (10%),FALSE,spectra,White2015_signaldesigncourtship
+Insects,Lepidoptera (10),"(0,0),(5,5),(10,10),(15,15),(20,20),(25,25),(30,30),(35,35),(40,40),(45,45),(50,50),(55,55),(60,60),(65,65),(70,70)",,H1,B3,,,CIE,FALSE,FWHM of angle ranges on B3,FALSE,polar plot of FWHM,Wickham2006_exaggerationsuppressioniridescence
+Insects,Curetis acuta,cf Pirih,,,B1,,,FALSE,FALSE,FALSE,FALSE,B1,Wilts2013_shinywingscales
+Birds,Parotia lawesii,"(0,0),(10,10),(20,20),(30,30),(40,40),(50,50),(60,60)",,,,,,Endler & Mielke,FALSE,FALSE,FALSE,"spectra,quantum catches",Wilts2014_sparklingfeatherreflections
+Insects,Trogonopetra brookiana,single unknown,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Wilts2016_uniquewingscale
+Birds,Columbia livia,unknown multiple,,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Wilts2016_uniquewingscale
+Birds,Columbia livia,"(0,0),(20,20),(40,40),(60,60)",,,,,,CIE,FALSE,FALSE,FALSE,Normalised spectra,Yin2006_iridescenceneckfeathers
+Birds,Columbia livia,"(30,30),(45,45),(60,60)",,,,,,CIE,FALSE,FALSE,FALSE,FALSE,Yoshioka2007_origintwocoloriridescence
+Insects,Chrysiridia rhipheus,none,,,,,,FALSE,FALSE,FALSE,FALSE,spectra,Yoshioka2008_colorationusinghigher
+Insects,Chrysochroa fulgidissima,"(0,0),(15,15),(20,20),(25,25),(30,30),(35,35),(40,40),(45,45),(50,50),(55,55),(60,60),(65,65),(70,70),(75,75)",,,,,,,,,,H1,Yoshioka2011_directdeterminationrefractive
+Birds,Pavo muticus,"(0,0)",,,,,,FALSE,FALSE,FALSE,FALSE,FALSE,Zi2003_colorationstrategiespeacock
