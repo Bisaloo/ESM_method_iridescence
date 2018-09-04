@@ -1,0 +1,4 @@
+*.Rmd
+*.synctex.gz
+*.aux
+*.log
